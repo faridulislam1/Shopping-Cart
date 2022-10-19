@@ -1,0 +1,11 @@
+.shop{
+    display: flex;
+    font-size:20px;
+    
+    
+
+}
+.course-container{
+    width:70%;
+    border-right: 1px solid lightgray;
+}
